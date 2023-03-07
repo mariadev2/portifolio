@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: royalblue;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -11,7 +11,7 @@ ul{
     padding: 16px;
 }
 a{
-    color: white;
+    color: rgb(255, 255, 255);
     text-decoration: none;
 
 }
@@ -19,15 +19,19 @@ header img{
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    border: 5px solid plum;
+    border: 5px solid rgb(58, 221, 66);
 
 }
 .center{
     text-align: center;
 }
 h1{
-    color: aquamarine;
+    color: rgb(246, 120, 181);
 }
+h3{
+    color: rgb(156, 247, 91);
+}
+
 footer img{
     width: 20px ;
     height: 20px;
